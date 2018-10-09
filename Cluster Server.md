@@ -23,7 +23,7 @@ Why is Clusters than single 1’ s?
 ### Cluster Catagorization
 * **High Availability Clusters**
 
-   Avoid single pointof failure
+   Avoid single point of failure
   
    This requires at least two nodes - a primary and a backup.
   
