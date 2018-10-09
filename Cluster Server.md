@@ -30,7 +30,7 @@ Why is Clusters than single 1’ s?
    Always with redundancy
   
    Almost all load balancing cluster are with HA capability.
-* Load Balancing Clusters
+* **Load Balancing Clusters**
 
    PC cluster deliver load balancing performance
   
