@@ -13,7 +13,7 @@
 Why is Clusters than single 1’ s?
 * **Price/Performance**
 
-  The reason for the growth in use of clusters is that they have significantly reduced the costof processing power.
+  The reason for the growth in use of clusters is that they have significantly reduced the cost of processing power.
 * **Availability**
 
   Single points of failure can be eliminated, if any one system componentgoes down, the system as a whole stay highly available.
